@@ -9,4 +9,3 @@ node {
     sh label: '', script: 'java Main'
   }
 }
-}
